@@ -78,10 +78,6 @@ All models were thoroughly analyzed. We generated:
 
 ---
 
-## 👩‍💻 Authors
-
----
-
 ## 👥 Project Information
 
 This project was developed as a **group assignment** by a team of three students as part of the course **Neural Networks Basics**.
